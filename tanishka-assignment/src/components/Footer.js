@@ -9,13 +9,6 @@ const Footer = () => {
             <div className="footer__text">
                 <p>
                     © {year} - goshoppify.com
-                     {/* Made with ❤️ by &nbsp; */}
-                    {/* <a
-                        href="https://www.instagram.com/_.dramatic_bliss._/"
-                        style={{ textDecoration: "none", color: "red" }}
-                    >
-                        Tanishka 🌻
-                    </a> */}
                 </p>
             </div>
             <div className="footer__social">
